@@ -1,0 +1,8 @@
+{
+    "author" : ["BlueSoD (BlueSoD#4912)"],
+    "install_msg" : "Thank you for installing my repo, this is my first try at plugins",
+    "name" : "Blue-Cogs",
+    "short" : "First try at making a plugin.",
+    "description" : "Contains a try at a plugin for syncing Wordpress roles to Discord.",
+    "tags" : ["Wordpress", "Roles"]
+}
